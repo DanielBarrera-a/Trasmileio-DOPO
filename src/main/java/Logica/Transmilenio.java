@@ -47,7 +47,7 @@ public class Transmilenio {
                     break;
 
                 case 0:
-                    System.out.println("¡Hasta luego! 🚌");
+                    System.out.println("Termina primer ciclo dle taller");
                     break;
 
                 default:
