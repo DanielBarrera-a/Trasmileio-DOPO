@@ -20,9 +20,11 @@ Este es un desarolo inical de los puntos 1,2 y 4 del taller de trasmilenio
 
 La informacion del sistema se basa en el [Mapa Digital de Transmilenio](https://mapadigital.transmilenio.gov.co/).
 
-> **Nota 1:** La informacion de troncales y estaciones fue extraida de forma manual desde el mapa digital de Transmilenio, ya que no se dispone de una API publica oficial.
-> **Nota 2:** Excluimos dos troncales la L y la M porque son rutas de Sitp y no propias e los buses articulados y biarticulados de trasmilenio
-> **Nota 3**: Los datos estan en el archivo txt llamado DatosDeTrasmilenio
+**Nota 1:** La informacion de troncales y estaciones fue extraida de forma manual desde el mapa digital de Transmilenio, ya que no se dispone de una API publica oficial
+
+**Nota 2:** Excluimos dos troncales la L y la M porque son rutas de Sitp y no propias e los buses articulados y biarticulados de trasmilenio
+
+**Nota 3**: Los datos estan en el archivo txt llamado DatosDeTrasmilenio
 
 
 ---
